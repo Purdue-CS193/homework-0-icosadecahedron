@@ -3,7 +3,6 @@
 ### Some of Bingrui's Favorite Things about CS
 
 ```markdown
-Syntax highlighted code block
 
 -free pizza in hackathons
 -terminal ide mods
