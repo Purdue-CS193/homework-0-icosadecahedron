@@ -1,31 +1,16 @@
 ### Bingrui's First CS 193 Homework
 
 ### Some of Bingrui's Favorite Things about CS
+
+```markdown
+Syntax highlighted code block
+
 -free pizza in hackathons
 -terminal ide mods
 -cool hacker noises
 -my macbook
 
 
-
-
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Heade
-## Header 2
-### Header 3
-
-- 
-- List
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
